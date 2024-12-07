@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ASUS\\Downloads\\opentest4j-1.2.0.jar",
+        "c:\\Users\\ASUS\\Downloads\\junit-jupiter-api-5.9.3.jar",
+        "c:\\Users\\ASUS\\Downloads\\junit-launcher-5.0.0-ALPHA.jar",
+        "c:\\Users\\ASUS\\Downloads\\junit-jupiter-engine-5.9.3.jar",
+        "c:\\Users\\ASUS\\Downloads\\junit-platform-commons-1.9.3.jar"
+    ],
+    "java.project.sourcePaths": [
+        "demo/src",
+        "demo/.vscode",
+        "demo/lib"
+    ]
+}

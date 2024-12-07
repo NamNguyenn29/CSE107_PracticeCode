@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "ICPC.A",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "E",
+            "request": "launch",
+            "mainClass": "ICPC.E",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "G",
+            "request": "launch",
+            "mainClass": "ICPC.G",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "L",
+            "request": "launch",
+            "mainClass": "ICPC.L",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "assignment.demo",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIPOINT",
+            "request": "launch",
+            "mainClass": "assignment.lab1.EIPOINT",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUEVERYN",
+            "request": "launch",
+            "mainClass": "assignment.lab1.EIUEVERYN",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUTHU",
+            "request": "launch",
+            "mainClass": "assignment.lab1.EIUTHU",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUTRIGLE",
+            "request": "launch",
+            "mainClass": "assignment.lab1.EIUTRIGLE",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "assignment.lab1.Main",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "MoneyChange",
+            "request": "launch",
+            "mainClass": "assignment.lab1.MoneyChange",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIDISCOUNT",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIDISCOUNT",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUBIRTH",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIUBIRTH",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUCUBES",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIUCUBES",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUFING",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIUFING",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUMADIS",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIUMADIS",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUSAVING1",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIUSAVING1",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUSnail",
+            "request": "launch",
+            "mainClass": "assignment.lab2.EIUSnail",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIBANKFEE",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIBANKFEE",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIBANKFEE2",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIBANKFEE2",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIBANKRATE",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIBANKRATE",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIDINRATE",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIDINRATE",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIGROSS",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIGROSS",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EISALARY2",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EISALARY2",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EITAX",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EITAX",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUMARKUP",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIUMARKUP",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUSAVING1(1)",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIUSAVING1",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUSAVING2",
+            "request": "launch",
+            "mainClass": "assignment.lab3.EIUSAVING2",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUACTION",
+            "request": "launch",
+            "mainClass": "assignment.lab5.EIUACTION",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUCHRMS",
+            "request": "launch",
+            "mainClass": "assignment.lab5.EIUCHRMS",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUDISCOUNT3",
+            "request": "launch",
+            "mainClass": "assignment.lab5.EIUDISCOUNT3",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUGEOSS2",
+            "request": "launch",
+            "mainClass": "assignment.lab5.EIUGEOSS2",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUMEMCARD",
+            "request": "launch",
+            "mainClass": "assignment.lab5.EIUMEMCARD",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUSALES",
+            "request": "launch",
+            "mainClass": "assignment.lab5.EIUSALES",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUBANKLOAN2",
+            "request": "launch",
+            "mainClass": "assignment.lab6.EIUBANKLOAN2",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUBHOUSE",
+            "request": "launch",
+            "mainClass": "assignment.lab6.EIUBHOUSE",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUPUCHASE2",
+            "request": "launch",
+            "mainClass": "assignment.lab6.EIUPUCHASE2",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUPURCHASE",
+            "request": "launch",
+            "mainClass": "assignment.lab6.EIUPURCHASE",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUPURCHASE3",
+            "request": "launch",
+            "mainClass": "assignment.lab6.EIUPURCHASE3",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUVINFAST",
+            "request": "launch",
+            "mainClass": "assignment.lab7.EIUVINFAST",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "Saving3",
+            "request": "launch",
+            "mainClass": "assignment.lab7.Saving3",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "EIUFF",
+            "request": "launch",
+            "mainClass": "assignment.lab8.EIUFF",
+            "projectName": "CSE107_908bacb6"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "demo.test1",
+            "projectName": "CSE107_908bacb6"
+        }
+    ]
+}
